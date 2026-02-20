@@ -6,7 +6,8 @@
 - Identified high-risk vulnerabilities impacting PHI and cardholder data  
 - Performed qualitative risk prioritization (Impact × Likelihood)  
 - Designed hybrid cloud architecture to remediate findings  
-- Implemented zero trust controls aligned with HIPAA and PCI DSS  
+- Implemented zero trust controls aligned with HIPAA and PCI DSS
+- **Note:** This project is based on an academic case study.
 
 ---
 
